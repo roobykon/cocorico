@@ -19,7 +19,7 @@
             </trans-unit>
             <trans-unit id="Characteristic">
                 <source>Characteristic</source>
-                <target>Хакартеристики</target>
+                <target>Характеристики</target>
             </trans-unit>
             <trans-unit id="Characteristic Group">
                 <source>Characteristic Group</source>
